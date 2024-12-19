@@ -20,4 +20,4 @@ If you have ideas or improvements for my projects, feel free to open an Issue or
 
 ## License
 
-All the projects here are licensed under the [MIT License](link to your license) unless stated otherwise.
+All the projects here are licensed under the [MIT License] unless stated otherwise.
